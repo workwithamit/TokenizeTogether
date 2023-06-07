@@ -5,8 +5,8 @@
 ## QuickStart
 
 ```
-git clone https://github.com/workwithamit/hardhat-fund-me
-cd hardhat-fund-me
+git clone https://github.com/workwithamit/crowdfunding
+cd crowdfunding
 yarn
 ```
 
