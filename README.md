@@ -1,7 +1,29 @@
-# hardhat-fund-me
+# Getting Started
 
-This is a Fund-Me contract. In this contract we can fund the contract and withdraw amount from it .
 
-Tech stack: solidity, hardhat, metamask, chainlink, etherScan, alchemy, chainlink faucet, prettier.rc, solidity-coverage, solidity-linter
 
-I have done it using local [hardhat] network and using different online blockchain network.
+## QuickStart
+
+```
+git clone https://github.com/workwithamit/hardhat-fund-me
+cd hardhat-smart-contract-lottery
+yarn
+```
+
+## Usage
+
+Deploy:
+```
+yarn hardhat deploy
+```
+
+## Testing 
+``` 
+yarn hardhat test
+```
+
+### Test coverage
+
+```
+yarn hardhat coverage
+```
