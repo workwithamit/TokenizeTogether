@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/workwithamit/hardhat-fund-me
-cd hardhat-smart-contract-lottery
+cd hardhat-fund-me
 yarn
 ```
 
