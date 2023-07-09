@@ -5,8 +5,8 @@
 ## QuickStart
 
 ```
-git clone https://github.com/workwithamit/crowdfunding
-cd crowdfunding
+git clone https://github.com/workwithamit/TokenizeTogether
+cd TokenizeTogether
 yarn
 ```
 
